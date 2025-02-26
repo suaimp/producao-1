@@ -8,7 +8,7 @@ function App() {
       <header className="relative py-24 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">
-            Welcome to Our Platform
+            Welcome to Our Platform Bolt.new 2025
           </h1>
           <p className="text-xl text-gray-600 mb-8">
             Create something amazing with our powerful and intuitive tools
